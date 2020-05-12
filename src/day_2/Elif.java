@@ -7,5 +7,8 @@ public class Elif {
         System.out.println("Merhaba Ailem");
 
         System.out.println("sanane");
+        
+         System.out.println("banane");
+        
     }
 }
